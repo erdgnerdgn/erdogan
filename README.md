@@ -6,4 +6,4 @@ online education platform among teachers and students
 
 <h3>Gif</h3>
 
-![]()
+![](ekran.gif)
